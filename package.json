@@ -1,0 +1,13 @@
+{
+  "name": "server-dana",
+  "version": "0.0.0",
+  "description": "ServerDana",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
